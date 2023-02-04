@@ -1,0 +1,18 @@
+1.Guido van Rossum
+2.object-oriented prograamming language
+3.yes
+4..py
+5.interprited
+6.indentation
+7.#
+8.python_version()
+9.lambda
+10.preferred installer program
+11.type(),len()
+12.79 character
+13.dynamically typed
+   free and open source
+   portable and simple
+14.memory management in python involves a private heap cointaining all python object and data structure
+15.go to the browser search python and then download the python while installing it gives a option to set path just click on this and then install it
+16.yes
