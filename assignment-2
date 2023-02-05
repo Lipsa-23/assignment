@@ -1,0 +1,60 @@
+1.per = int(input("Enter percentage :"))
+if per>90:
+    print('A')
+elif per>80 and per<=90:
+     print('B')
+elif per>=60 and per<=80:
+     print('c')
+elif per<60:
+     print(D)
+     
+     
+2.cost_price = int(input("Enter bike cost price :"))
+if cost_price >100000:
+    print('15%')
+elif cost_price>50000 and cost_price<=100000:
+    print('10%')
+elif cost-price<=50000:
+    print('5%')
+    
+    
+3.city = input("Enter city :")
+if city=="delhi":
+    print("Red Fort")
+elif city=="agra":
+    print("Taj Mahal")
+elif city == "jaipur":
+    print("jal Mahal")
+    
+    
+4.count = 0
+num = int(input("Enter number:"))
+while(0<num<=10 and (num%3==0)):
+    count = count+1
+    num = num/3
+count
+
+
+5.when we have to print a block of code in a repeated manner for unknown number of times or untill a condition is met.
+example: if we want to print numbers from 1 to 10
+    i = 1
+while i<=10:
+    print(i)
+    i=i+1
+    
+6.i)n = int(input("Enter number of rows"))
+i = 1
+while i<=n:
+    j=1
+    while j<=i:
+        print("*",end = " ")
+        j=j+1
+    print()
+    i = i+1
+    
+7.i=10
+while i>=1:
+    print(i)
+    i = i-1
+
+    
